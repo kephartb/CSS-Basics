@@ -1,0 +1,49 @@
+
+body {
+  font-size: 14px;
+}
+
+/* styling the nav setion */
+nav {
+  background color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+/* font size and type for h1*/
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+.example h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+/* styling the div elements */
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+/* altered the background color of the last 3 elements */
+.element1 {
+  background-color: blue;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
